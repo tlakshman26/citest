@@ -2,6 +2,7 @@
 export GIT_EMAIL='vedams_dothill_ci@vedams.com'
 export GIT_NAME='Vedams DotHillDriver CI'
 #export PROJECT_CONFIG=https://github.com/nikesh-mahalka/project-config-ci-name-dothill.git
+export PROJECT_CONFIG=https://github.com/tlakshman26/citest_var
 #Openstack
 export UPSTREAM_GERRIT_SSH_HOST_KEY="review.openstack.org,23.253.232.87,2001:4800:7815:104:3bc3:d7f6:ff03:bf5d b8:3c:72:82:d5:9e:59:43:54:11:ef:93:40:1f:6d:a5"
 export UPSTREAM_GERRIT_USER=vedams_dothill_ci
