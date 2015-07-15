@@ -1,6 +1,6 @@
 
-export GIT_EMAIL='vedams_dothill_ci@vedams.com'
-export GIT_NAME='Vedams DotHillDriver CI'
+export GIT_EMAIL='tlakshman26@gmail.com'
+export GIT_NAME='LAKSHMAN TEST CI'
 #export PROJECT_CONFIG=https://github.com/nikesh-mahalka/project-config-ci-name-dothill.git
 export PROJECT_CONFIG=https://github.com/tlakshman26/citest_var
 #Openstack
